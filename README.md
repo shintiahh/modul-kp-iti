@@ -13,3 +13,4 @@ latexmk -lualatex -shell-escape main.tex
 ```
 
 Perintah di atas menghasilkan file `main.pdf` yang dapat dibaca dengan program pembaca PDF.
+cin
